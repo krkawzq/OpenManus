@@ -197,3 +197,12 @@ cython_debug/
 
 # OSX
 .DS_Store
+
+
+# 学习文件不要跟踪
+*.md
+!README_ja.md
+!README_zh.md
+!README_ko.md
+!README.md
+
